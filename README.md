@@ -1,1 +1,1 @@
-"# Anime-bot-v2" 
+Anime-bot-v2
