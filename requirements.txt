@@ -1,0 +1,6 @@
+discord.py
+disputils
+jikanpy
+pytz
+requests
+
